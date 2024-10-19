@@ -12,3 +12,10 @@ Edge Navigator let you open Microsoft Start and MSN.
 Next, Edge Navigator was updated into a "Second Edition"
 
 Finally, I added some theming and out came Sakura Hotline!
+
+
+HELP
+----------------
+Opera doesn't work. I am working on a fix!
+
+Best Regards, PipWizard77
