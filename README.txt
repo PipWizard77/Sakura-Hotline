@@ -19,3 +19,8 @@ HELP
 Opera doesn't work. I am working on a fix!
 
 Best Regards, PipWizard77
+
+
+GOOD NEWS!!!
+---------------
+Opera now works!
